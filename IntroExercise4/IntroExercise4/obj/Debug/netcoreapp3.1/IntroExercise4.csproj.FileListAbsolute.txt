@@ -1,0 +1,12 @@
+C:\Users\william.kindbom\source\repos\IntroExercise4\IntroExercise4\bin\Debug\netcoreapp3.1\IntroExercise4.exe
+C:\Users\william.kindbom\source\repos\IntroExercise4\IntroExercise4\bin\Debug\netcoreapp3.1\IntroExercise4.deps.json
+C:\Users\william.kindbom\source\repos\IntroExercise4\IntroExercise4\bin\Debug\netcoreapp3.1\IntroExercise4.runtimeconfig.json
+C:\Users\william.kindbom\source\repos\IntroExercise4\IntroExercise4\bin\Debug\netcoreapp3.1\IntroExercise4.runtimeconfig.dev.json
+C:\Users\william.kindbom\source\repos\IntroExercise4\IntroExercise4\bin\Debug\netcoreapp3.1\IntroExercise4.dll
+C:\Users\william.kindbom\source\repos\IntroExercise4\IntroExercise4\bin\Debug\netcoreapp3.1\IntroExercise4.pdb
+C:\Users\william.kindbom\source\repos\IntroExercise4\IntroExercise4\obj\Debug\netcoreapp3.1\IntroExercise4.csproj.CoreCompileInputs.cache
+C:\Users\william.kindbom\source\repos\IntroExercise4\IntroExercise4\obj\Debug\netcoreapp3.1\IntroExercise4.AssemblyInfoInputs.cache
+C:\Users\william.kindbom\source\repos\IntroExercise4\IntroExercise4\obj\Debug\netcoreapp3.1\IntroExercise4.AssemblyInfo.cs
+C:\Users\william.kindbom\source\repos\IntroExercise4\IntroExercise4\obj\Debug\netcoreapp3.1\IntroExercise4.dll
+C:\Users\william.kindbom\source\repos\IntroExercise4\IntroExercise4\obj\Debug\netcoreapp3.1\IntroExercise4.pdb
+C:\Users\william.kindbom\source\repos\IntroExercise4\IntroExercise4\obj\Debug\netcoreapp3.1\IntroExercise4.genruntimeconfig.cache
